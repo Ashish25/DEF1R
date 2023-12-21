@@ -1,6 +1,6 @@
 <h1 align='center'>  DE - 🏎 F1 Dataflow- Ashish Sahu </h1>
 <p align="center">
-  <img src="/Users/ashish/Library/Mobile Documents/com~apple~CloudDocs/Sync/AshishGithub/tempwork/Waqar-F1/racing-formula-1-pit-lane-ferrari.jpeg" width="800" height="400" />
+  <img src="DEF1R/resources/racing-formula-1-pit-lane-ferrari.jpeg" width="800" height="400" />
 </p>
 
 ## Summary 
