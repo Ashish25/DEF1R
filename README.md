@@ -1,7 +1,4 @@
 <h1 align='center'>  DE - 🏎 F1 Dataflow- Ashish Sahu </h1>
-<p align="center">
-  <img src="[DEF1R/resources/racing-formula-1-pit-lane-ferrari.jpeg](https://github.com/Ashish25/DEF1R/blob/main/resources/racing-formula-1-pit-lane-ferrari.jpeg)" width="800" height="400" />
-</p>
 
 ## Summary 
 
@@ -39,8 +36,6 @@ In this project, we used the [Azure Cloud Services](https://azure.microsoft.com/
 ## Data Source
 
 The data for all the Formula 1 races from 1950s onwards is obtained from an open source API called [Ergast Developer API](http://ergast.com/mrd/). The structure of the database is shown in the following ER Diagram and explained in the [Database User Guide](http://ergast.com/docs/f1db_user_guide.txt)
-
-![ERDiagram](http://ergast.com/images/ergast_db.png)
 
 ## Tools
 
